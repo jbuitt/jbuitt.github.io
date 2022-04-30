@@ -1,1 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://jim.buitt.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc/><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/tag/academic/</loc><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/categories/</loc><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/category/demo/</loc><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/project/homelab/</loc><lastmod>2022-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/tag/homelab/</loc><lastmod>2022-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc/><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/post/</loc><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/project/</loc><lastmod>2022-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/tags/</loc><lastmod>2022-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/tag/weather/</loc><lastmod>2022-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/post/getting-started/</loc><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/project/wxnotify/</loc><lastmod>2022-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/slides/homelab/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/slides/wxnotify/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url><url><loc>https://jim.buitt.io/publication_types/</loc><changefreq>weekly</changefreq></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+  <url>
+    <loc>https://jim.buitt.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/tag/academic/</loc><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/categories/</loc><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/category/demo/</loc><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/project/homelab/</loc><lastmod>2022-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/tag/homelab/</loc><lastmod>2022-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/post/</loc><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/project/</loc><lastmod>2022-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/tags/</loc><lastmod>2022-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/tag/weather/</loc><lastmod>2022-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/post/getting-started/</loc><lastmod>2020-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/project/wxnotify/</loc><lastmod>2022-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/slides/homelab/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/slides/wxnotify/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jim.buitt.io/publication_types/</loc><changefreq>weekly</changefreq></url></urlset>
