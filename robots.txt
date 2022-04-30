@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://jbuitt.github.io/sitemap.xml
