@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://jim.buitt.io/sitemap.xml
+Sitemap: https://jim.buitt.com/sitemap.xml
